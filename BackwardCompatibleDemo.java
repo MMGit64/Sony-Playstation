@@ -21,6 +21,10 @@ public class BackwardCompatibleDemo {
 		playStation5.play("ps4", "Uncharted 4: A Thieves End.ps4");
 		playStation5.play("ps4", "Red Redemption 2.ps4");
 		playStation5.play("ps4", "The Witcher: Wild Hunt.ps4");
+		
+		playStation5.play("xboxOne", "Halo 5: Gaurdians.xboxOne");
+		
+		playStation5.play("pc", "Tomb Raider 2: Starring Lara Croft.pc");
 	}
 
 }
