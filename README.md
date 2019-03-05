@@ -2,4 +2,4 @@
 
 Editor: Mustafa Mossa
 
-Play all previous playstation games on the upcoming playstation 5!
+Using Adapter Pattern Design, play all previous playstation games on the upcoming playstation 5!
